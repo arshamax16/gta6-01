@@ -1,8 +1,8 @@
 # Solmar Bay — An Open-World Crime Story
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--01-ff5e78?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zz48L3N2Zz4)](https://make.fun/c/gta6-01)
-[![Play in your browser](https://img.shields.io/badge/play-in%20your%20browser-2ecc71?style=for-the-badge)](https://make.fun/c/gta6-01)
-[![Open world](https://img.shields.io/badge/open%20world-5%20missions-7b5cff?style=for-the-badge)](https://make.fun/c/gta6-01)
+[![make.fun](https://make.fun/badge/gta6-01.svg)](https://make.fun/c/gta6-01)
+[![rank](https://make.fun/badge/gta6-01/arshamax16/gta6-01/rank.svg)](https://make.fun/c/gta6-01)
+[![reward](https://make.fun/badge/gta6-01/arshamax16/gta6-01/reward.svg)](https://make.fun/c/gta6-01)
 
 An original open-world crime game built for the **[make.fun](https://make.fun/c/gta6-01) "Make GTA 6" (gta6-01)** bounty. Steal cars, outrun the Solmar police, and work your way up from a broke wheelman to the legend of the Bay.
 
